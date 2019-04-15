@@ -1,6 +1,7 @@
 ﻿using OfficeOpenXml;
 using OfficeOpenXml.Style;
 using System;
+using System.Diagnostics;
 using System.Drawing;
 using System.IO;
 
@@ -63,6 +64,8 @@ namespace Excel
             EntryDetail.Cells.AutoFitColumns();
 
             pck.Save();
+
+            Process.Start(docName);
         }
     }
 }
