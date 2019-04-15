@@ -1,0 +1,8 @@
+C:\Users\chiraq.rasulov\Desktop\Excel\Excel\bin\Debug\Excel.exe.config
+C:\Users\chiraq.rasulov\Desktop\Excel\Excel\bin\Debug\Excel.exe
+C:\Users\chiraq.rasulov\Desktop\Excel\Excel\bin\Debug\Excel.pdb
+C:\Users\chiraq.rasulov\Desktop\Excel\Excel\bin\Debug\EPPlus.dll
+C:\Users\chiraq.rasulov\Desktop\Excel\Excel\bin\Debug\EPPlus.xml
+C:\Users\chiraq.rasulov\Desktop\Excel\Excel\obj\Debug\Excel.csprojResolveAssemblyReference.cache
+C:\Users\chiraq.rasulov\Desktop\Excel\Excel\obj\Debug\Excel.exe
+C:\Users\chiraq.rasulov\Desktop\Excel\Excel\obj\Debug\Excel.pdb
